@@ -348,3 +348,6 @@ stages:
            StartupCommand: 'dotnet run'
        - script: 'ls $(System.DefaultWorkingDirectory)'
 ```
+https://danildoterdb@dev.azure.com/danildoterdb/Reinz12/_git/ReinzDotnetWeb
+
+https://dev.azure.com/danildoterdb/Reinz12/_git/DevOpsCode
